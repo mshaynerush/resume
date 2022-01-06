@@ -290,7 +290,6 @@ html
     display: flex;
     justify-content: space-between;
     align-items: baseline;
-    margin-bottom: 20px;
 }
 
 .job-title
@@ -303,6 +302,7 @@ html
 .job-desc
 {
     font-size: 1rem;
+    margin-bottom: 20px;
 }
 
 .section ul
