@@ -89,7 +89,7 @@ html
 {
     display: flex;
     flex-wrap: wrap;
-    width: 100%;
+    width: 100%; 
     justify-content: flex-start;
     align-items:baseline;
     background: transparent;
@@ -312,7 +312,7 @@ html
 
 .section ul li
 {
-    height: 25px;
+    padding: 5px 0px;
 }
 
 .ext-link
